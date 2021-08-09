@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Aaron Lane
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aaron-lane)](https://github.com/LordDashMe/github-contribution-stats)
+
+[![Other Stats](https://github-readme-stats.vercel.app/api?username=aaron-lane&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
