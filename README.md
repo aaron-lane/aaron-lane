@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Aaron Lane
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aaron-lane)](https://github.com/LordDashMe/github-contribution-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aaron-lane)](https://github.com/LordDashMe/github-contribution-stats/)
